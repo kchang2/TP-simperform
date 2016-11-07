@@ -1,4 +1,4 @@
-# Team and Player Simularity Score Calculator
+# Team and Player Simularity Score Calculator (Baseball)
 
 Written for the AY119 course project at Caltech, in order to investigate a topic of choice using computational science tools gained from the course.
 Modified from Ryan Pollack's Team simularity score (ryanpollack.com), and Bill James Similarity Scores method.
